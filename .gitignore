@@ -1,0 +1,5 @@
+**/data/
+.vagrant
+**/cookbooks/
+recipes/
+.DS_Store
